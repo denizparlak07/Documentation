@@ -20,3 +20,23 @@ chmod --help
 
 ```
 ![alt text](https://github.com/denizparlak07/Documentation/blob/master/images/Screenshot_1.png)
+
+You could see -R parameter,that means recursively change permission, every subdirectory. 
+```sh
+chmod -R 775 /etc
+
+```
+Lets try **man page**
+
+```sh
+man chmod
+
+```
+![alt text](https://github.com/denizparlak07/Documentation/blob/master/images/man_gif.gif)
+
+Thats all, just you need read the manuel !
+
+>Peace..
+
+
+
