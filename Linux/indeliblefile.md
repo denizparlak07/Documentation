@@ -10,7 +10,7 @@ touch example.txt
 chattr +i example.txt
 
 ```
-![alt text](https://github.com/denizparlak07/gif/blob/master/linux.gif)
+![alt text](https://drive.google.com/open?id=1nyV6sQtmK3hFKVBTSzj_VPMik7AzT9zy)
 
 Peace.. 
 
