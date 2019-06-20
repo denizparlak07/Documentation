@@ -1,5 +1,2 @@
-# AWS
+# This repository include AWS , PostgreSQL , RMAN , OEM , Linux , Oracle , Big Data Documentation
 
-anadosya
-
-aws anatım ,,n [tıkla](https://github.com/denizparlak07/AWS/blob/master/aws-anlatim.md)
