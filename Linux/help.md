@@ -19,4 +19,4 @@ so we can use **--help** or **man**
 chmod --help
 
 ```
-![alt text](https://drive.google.com/file/d/1ScMvRFVwKkDfG5JemGSfOGeNSR1abRg4/view?usp=sharing)
+![alt text](https://github.com/denizparlak07/Documentation/blob/master/images/Screenshot_1.png)
